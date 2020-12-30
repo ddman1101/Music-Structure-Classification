@@ -6,5 +6,5 @@ This task is about music structure classification. And we establish the CRNN to 
 * Test-EDM-dataset : Also contain the data preprocessing part and the model part.
 
 ## Requirements
-python 3.8
-tensorflow 2.x.x
+* python 3.8
+* tensorflow 2.x.x
